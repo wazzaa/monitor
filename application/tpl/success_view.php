@@ -1,0 +1,1 @@
+﻿<h2>Data successfully added!</h2>
