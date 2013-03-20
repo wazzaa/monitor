@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "servers";
 $route['404_override'] = '';
+$route['servers/check_domain'] = 'servers';
 
 
 /* End of file routes.php */
